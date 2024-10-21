@@ -168,5 +168,8 @@
 	},
 	"css.format.spaceAroundSelectorSeparator": true,
 	"typescript.enablePromptUseWorkspaceTsdk": true,
-	"eslint.useFlatConfig": true
+	"eslint.useFlatConfig": true,
+	"marquee.widgets.npm-stats.packageNames": [
+		"code-oss-dev"
+	]
 }
